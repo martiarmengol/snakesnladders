@@ -1,0 +1,3 @@
+C:/Users/marti/Desktop/Data Sctructures/l1_l2_students_code-20230223T160658Z-001-20230228T075023Z-001/l1_l2_students_code-20230223T160658Z-001/l1_l2_students_code/l1_code/cmake-build-debug/CMakeFiles/snakesnladders.dir
+C:/Users/marti/Desktop/Data Sctructures/l1_l2_students_code-20230223T160658Z-001-20230228T075023Z-001/l1_l2_students_code-20230223T160658Z-001/l1_l2_students_code/l1_code/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marti/Desktop/Data Sctructures/l1_l2_students_code-20230223T160658Z-001-20230228T075023Z-001/l1_l2_students_code-20230223T160658Z-001/l1_l2_students_code/l1_code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
